@@ -1,0 +1,23 @@
+body {
+    background-color: aliceblue;
+
+}
+
+h1 {
+    color: #b3c6ff;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+p {
+    margin: 50px;
+    padding: 25px;
+    font-size: 8px;
+    border: 12px;
+
+}
+
+div {
+    border: 5px dashed purple;
+    color: purple;
+}
